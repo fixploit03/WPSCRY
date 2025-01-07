@@ -24,7 +24,7 @@ apt-get install reaver aircrack-ng wireless-tools iw pixiewps git unzip
 git clone https://github.com/fixploit03/WPSCRY.git
 cd WPSCRY
 chmod +x wpscry.sh
-cp wpscry.sh /usr/bin/wpscry
+cp wpscry.sh /usr/local/bin/wpscry
 ```
 
 ## Run
