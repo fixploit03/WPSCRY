@@ -1,6 +1,3 @@
-![Forks](https://img.shields.io/github/forks/fixploit03/WPSCRY.svg)
-![Stars](https://img.shields.io/github/stars/fixploit03/WPSCRY.svg)
-
 # WPSCRY
 
 Crack Wi-Fi yang menggunakan fitur WPS (Wi-Fi Protected Setup) secara otomatis.
