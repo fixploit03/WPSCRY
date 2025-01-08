@@ -41,4 +41,4 @@ Gejala: Pixiewps gagal mendapatkan PIN atau menampilkan pesan error.
 
 Solusi:
   - Pastikan alat pixiewps sudah terinstal dengan benar.
-  - Targetkan router yang rentan terhadap serangan Pixie Dust. Tidak semua perangkat router mendukung kelemahan ini.
+  - Targetkan router yang rentan terhadap serangan Pixie Dust. Tidak semua perangkat router rentan terhadap serangan Pixie Dust.
