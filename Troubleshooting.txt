@@ -1,1 +1,34 @@
+Berikut ini adalah beberapa masalah umum yang terjadi:
 
+1. Masalah Izin
+
+Gejala: Script tidak dapat dijalankan, atau muncul pesan '[-] Script ini harus dijalankan sebagai root.'
+
+Solusi:
+  - Pastikan Anda menjalankan scriptnya sebagai root.
+  - Gunakan perintah 'sudo'.
+
+  Contoh: sudo wpscry
+
+2. Wi-Fi Tidak Terdeteksi
+
+Gejala: Tidak ada jaringan yang muncul saat melakukan proses scanning.
+
+Solusi: Pastikan perangkat Wi-Fi Anda mendukung mode monitor.
+
+3. Reaver Gagal Melakukan Serangan
+
+Gejala: Reaver terus mencoba tanpa hasil atau menampilkan pesan error seperti:
+  - WPS transaction failed
+  - Found packet with bad FCS, skipping...
+  - WARNING: Receive timeout occurred
+
+Solusi: Pastikan Wi-Fi target mendukung fitur WPS dan sinyal Wi-Fi target cukup kuat.
+
+4. Pixie Dust Attack Tidak Berhasil
+
+Gejala: Pixiewps gagal mendapatkan PIN atau menampilkan pesan error.
+
+Solusi:
+  - Pastikan alat pixiewps sudah terinstal dengan benar.
+  - Targetkan router yang rentan terhadap serangan Pixie Dust. Tidak semua perangkat router mendukung kelemahan ini.
