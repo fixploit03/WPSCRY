@@ -1,6 +1,6 @@
 # WPSCRY
 
-Crack Wi-Fi yang menggunakan fitur WPS (Wi-Fi Protected Setup) secara otomatis.
+Crack Wi-Fi yang menggunakan fitur [WPS](https://en.m.wikipedia.org/wiki/Wi-Fi_Protected_Setup) (Wi-Fi Protected Setup) secara otomatis.
 
 ## Apa itu WPS dan mengapa rawan?
 
@@ -15,7 +15,7 @@ Kerentanan ini menjadikan WPS sebagai target populer dalam uji penetrasi jaringa
 
 ## Disclaimer
 
-Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY dirancang untuk tujuan pendidikan dan pembelajaran. Penggunaan script ini untuk mengakses jaringan tanpa izin adalah ilegal dan dapat mengakibatkan konsekuensi hukum. Pembuat tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang mungkin terjadi akibat penggunaan script ini.
+Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY dirancang untuk tujuan pendidikan dan pembelajaran. Penggunaan script ini untuk mengakses jaringan tanpa izin adalah ilegal dan dapat mengakibatkan [konsekuensi hukum](https://sippn.menpan.go.id/berita/39427/rumah-tahanan-negara-kelas-iib-pelaihari/menggunakan-wi-fi-tetangga-tanpa-izin-bisa-dijerat-hukum). Pembuat tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang mungkin terjadi akibat penggunaan script ini.
 
 ## Persyaratan
 
@@ -52,4 +52,4 @@ wpscry
 
 ## Lisensi
 
-Script ini dilisensikan di bawah lisensi MIT. Anda bebas menggunakan, memodifikasi, dan mendistribusikan script ini, dengan tetap menghormati hak cipta pembuat.
+Script ini dilisensikan di bawah [lisensi MIT](https://github.com/fixploit03/WPSCRY/blob/main/LICENSE). Anda bebas menggunakan, memodifikasi, dan mendistribusikan script ini, dengan tetap menghormati hak cipta pembuat.
