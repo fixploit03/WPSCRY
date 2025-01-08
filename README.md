@@ -58,7 +58,7 @@ Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY diran
 
 ```
 apt-get update
-apt-get install reaver aircrack-ng wireless-tools iw pixiewps git unzip
+apt-get install reaver aircrack-ng wireless-tools iw pixiewps git
 git clone https://github.com/fixploit03/WPSCRY.git
 cd WPSCRY
 chmod +x wpscry.sh
