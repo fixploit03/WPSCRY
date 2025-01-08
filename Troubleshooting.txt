@@ -25,6 +25,16 @@ Gejala: Reaver terus mencoba tanpa hasil atau menampilkan pesan error seperti:
 
 Solusi: Pastikan Wi-Fi target mendukung fitur WPS dan sinyal Wi-Fi target cukup kuat.
 
++---------------------------------------+
+| Kategori Kekuatan Sinyal Wi-Fi        |
++---------------------------------------+
+| -30 dBm sampai -50 dBm [Sangat kuat]  |
+| -50 dBm sampai -60 dBm [Kuat]         |
+| -60 dBm sampai -70 dBm [Sedang]       |
+| -70 dBm sampai -80 dBm [Lemah]        |
+| lebih dari -80 dBm     [Sangat lemah] |
++---------------------------------------+
+
 4. Pixie Dust Attack Tidak Berhasil
 
 Gejala: Pixiewps gagal mendapatkan PIN atau menampilkan pesan error.
