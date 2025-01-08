@@ -223,7 +223,7 @@ function mengaktifkan_mode_monitor(){
 function memindai_wifi_wps(){
 	echo "[*] Memindai Wi-Fi yang menggunakan fitur WPS (Tekan CTRL+C untuk menghentikan pemindaian)..."
 	echo ""
-	wash -i "${iwifi}"
+	wash -i "${iwifi}" -p
 }
 
 function mengatur_bssid(){
@@ -321,7 +321,7 @@ function menjalankan_reaver(){
 	echo ""
 	read -p "Tekan [Enter] untuk memulai serangan..."
 
-	reaver -i "${iwifi}" -b "${bssid}" -c "${channel}" -s "${file_sesi}" "${verbose}" "${pixie}" -p
+	reaver -i "${iwifi}" -b "${bssid}" -c "${channel}" -s "${file_sesi}" "${verbose}" "${pixie}"
 
 	if [[ -f "${file_sesi}" ]]; then
 		rm "${file_sesi}"
