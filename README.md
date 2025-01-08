@@ -20,15 +20,16 @@ Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY diran
 ## Persyaratan
 
 **Hardware**:  
-- OS Kali Linux
-- Wi-Fi adapter (Support mode monitor)
+- OS [Kali Linux](https://www.kali.org/)
+- Wi-Fi adapter ([Support mode monitor](https://www.ceos3c.com/security/best-wifi-adapter-for-kali-linux/))
 
 **Software**:  
-- reaver
-- airmon-ng
-- wireless-tools
-- iw
-- pixiewps
+- [reaver](https://github.com/t6x/reaver-wps-fork-t6x)
+- [airmon-ng](https://github.com/aircrack-ng/aircrack-ng)
+- [wireless-tools](https://github.com/HewlettPackard/wireless-tools)
+- [iw](https://github.com/Distrotech/iw)
+- [pixiewps](https://github.com/wiire-a/pixiewps)
+
 
 ## Instalasi
 
