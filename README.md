@@ -1,5 +1,11 @@
 # WPSCRY
 
+![License](https://img.shields.io/github/license/fixploit03/WPSCRY?style=flat-square)
+![Issues](https://img.shields.io/github/issues/fixploit03/WPSCRY?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/fixploit03/WPSCRY?style=flat-square)
+![Stars](https://img.shields.io/github/stars/fixploit03/WPSCRY?style=flat-square)
+![Forks](https://img.shields.io/github/forks/fixploit03/WPSCRY?style=flat-square)
+
 Crack Wi-Fi yang menggunakan fitur [WPS](https://en.m.wikipedia.org/wiki/Wi-Fi_Protected_Setup) (Wi-Fi Protected Setup) secara otomatis.
 
 ## Apa itu WPS dan mengapa rawan?
