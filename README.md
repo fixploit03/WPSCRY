@@ -53,11 +53,3 @@ wpscry
 ## Lisensi
 
 Script ini dilisensikan di bawah lisensi MIT. Anda bebas menggunakan, memodifikasi, dan mendistribusikan script ini, dengan tetap menghormati hak cipta pembuat.
-
-## Credits
-
-- [reaver](https://github.com/t6x/reaver-wps-fork-t6x)
-- [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
-- [wireless-tools](https://github.com/HewlettPackard/wireless-tools)
-- [iw](https://github.com/Distrotech/iw)
-- [pixiewps](https://github.com/wiire-a/pixiewps)
