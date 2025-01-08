@@ -35,6 +35,10 @@ Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY diran
   [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
 
+## Demostrasi
+
+> [Demonstrasi]()
+
 ## Persyaratan
 
 **Hardware**:  
@@ -86,3 +90,7 @@ Script ini dilisensikan di bawah [lisensi MIT](https://github.com/fixploit03/WPS
 <p align="right">
   [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
+
+## Troubleshooting
+
+> [https://github.com/fixploit03/WPSCRY/blob/main/Troubleshooting.txt](https://github.com/fixploit03/WPSCRY/blob/main/Troubleshooting.txt)
