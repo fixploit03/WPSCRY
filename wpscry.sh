@@ -321,7 +321,7 @@ function menjalankan_reaver(){
 	echo ""
 	read -p "Tekan [Enter] untuk memulai serangan..."
 
-	reaver -i "${iwifi}" -b "${bssid}" -c "${channel}" -s "${file_sesi}" "${verbose}" "${pixie}"
+	reaver -i "${iwifi}" -b "${bssid}" -c "${channel}" -s "${file_sesi}" "${verbose}" "${pixie}" -p
 
 	if [[ -f "${file_sesi}" ]]; then
 		rm "${file_sesi}"
