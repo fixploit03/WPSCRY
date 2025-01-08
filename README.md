@@ -4,6 +4,8 @@ Crack Wi-Fi yang menggunakan fitur [WPS](https://en.m.wikipedia.org/wiki/Wi-Fi_P
 
 ## Apa itu WPS dan mengapa rawan?
 
+![](https://github.com/fixploit03/WPSCRY/blob/main/wps.jpeg)
+
 WPS (Wi-Fi Protected Setup) adalah fitur untuk memudahkan koneksi perangkat ke Wi-Fi. Namun, implementasi WPS sering kali memiliki kerentanan, seperti:
 
 - **Serangan brute force pada PIN WPS**:  
