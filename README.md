@@ -4,7 +4,7 @@ Crack Wi-Fi yang menggunakan fitur WPS (Wi-Fi Protected Setup) secara otomatis.
 
 ## Apa itu WPS dan mengapa rawan?
 
-WPS (Wi-Fi Protected Setup) adalah WPS (Wi-Fi Protected Setup) adalah fitur untuk memudahkan koneksi perangkat ke Wi-Fi. Namun, implementasi WPS sering kali memiliki kerentanan, seperti:
+WPS (Wi-Fi Protected Setup) adalah fitur untuk memudahkan koneksi perangkat ke Wi-Fi. Namun, implementasi WPS sering kali memiliki kerentanan, seperti:
 
 - **Serangan brute force pada PIN WPS**:  
   Menebak kombinasi PIN WPS hingga ditemukan yang benar.
