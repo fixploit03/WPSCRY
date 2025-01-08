@@ -16,7 +16,7 @@ WPS (Wi-Fi Protected Setup) adalah fitur untuk memudahkan koneksi perangkat ke W
 Kerentanan ini menjadikan WPS sebagai target populer dalam uji penetrasi jaringan
 
 <p align="right">
-  [<a href="">Back To Top</a>]
+  [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
 
 ## Disclaimer
@@ -24,6 +24,10 @@ Kerentanan ini menjadikan WPS sebagai target populer dalam uji penetrasi jaringa
 ![](https://github.com/fixploit03/WPSCRY/blob/main/giphy.gif)
 
 Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY dirancang untuk tujuan pendidikan dan pembelajaran. Penggunaan script ini untuk mengakses jaringan tanpa izin adalah ilegal dan dapat mengakibatkan [konsekuensi hukum](https://sippn.menpan.go.id/berita/39427/rumah-tahanan-negara-kelas-iib-pelaihari/menggunakan-wi-fi-tetangga-tanpa-izin-bisa-dijerat-hukum). Pembuat tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang mungkin terjadi akibat penggunaan script ini.
+
+<p align="right">
+  [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
+</p>
 
 ## Persyaratan
 
@@ -39,7 +43,7 @@ Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY diran
 - [pixiewps](https://github.com/wiire-a/pixiewps)
 
 <p align="right">
-  [<a href="">Back To Top</a>]
+  [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
 
 ## Instalasi
@@ -56,7 +60,7 @@ cp wpscry.sh /usr/local/bin/wpscry
 ```
 
 <p align="right">
-  [<a href="">Back To Top</a>]
+  [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
 
 ## Run
@@ -66,7 +70,7 @@ wpscry
 ```
 
 <p align="right">
-  [<a href="">Back To Top</a>]
+  [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
 
 ## Lisensi
@@ -74,5 +78,5 @@ wpscry
 Script ini dilisensikan di bawah [lisensi MIT](https://github.com/fixploit03/WPSCRY/blob/main/LICENSE). Anda bebas menggunakan, memodifikasi, dan mendistribusikan script ini, dengan tetap menghormati hak cipta pembuat.
 
 <p align="right">
-  [<a href="">Back To Top</a>]
+  [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
