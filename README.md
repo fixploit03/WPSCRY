@@ -21,6 +21,8 @@ Kerentanan ini menjadikan WPS sebagai target populer dalam uji penetrasi jaringa
 
 ## Disclaimer
 
+![](https://github.com/fixploit03/WPSCRY/blob/main/giphy.gif)
+
 Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY dirancang untuk tujuan pendidikan dan pembelajaran. Penggunaan script ini untuk mengakses jaringan tanpa izin adalah ilegal dan dapat mengakibatkan [konsekuensi hukum](https://sippn.menpan.go.id/berita/39427/rumah-tahanan-negara-kelas-iib-pelaihari/menggunakan-wi-fi-tetangga-tanpa-izin-bisa-dijerat-hukum). Pembuat tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang mungkin terjadi akibat penggunaan script ini.
 
 ## Persyaratan
