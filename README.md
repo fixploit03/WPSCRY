@@ -19,6 +19,7 @@ Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY diran
 
 ## Persyaratan
 
+- Wi-Fi adapter (Support mode monitor)
 - reaver
 - airmon-ng
 - wireless-tools
