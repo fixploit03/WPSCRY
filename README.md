@@ -19,6 +19,7 @@ Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY diran
 
 ## Persyaratan
 
+- OS Linux (Disarankan Kali Linux)
 - Wi-Fi adapter (Support mode monitor)
 - reaver
 - airmon-ng
