@@ -105,7 +105,7 @@ wpscry
 
 ![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030049.png)
 
-Masukkan Channel dari Wi-Fi target, lalu tekan Enter.
+<p align="center">Masukkan Channel dari Wi-Fi target, lalu tekan Enter.</p>
 
 ![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030129.png)
 
