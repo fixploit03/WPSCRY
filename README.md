@@ -75,6 +75,8 @@ chmod +x wpscry.sh
 cp wpscry.sh /usr/local/bin/wpscry
 ```
 
+> Download ZIP: [https://github.com/fixploit03/WPSCRY/archive/refs/heads/main.zip](https://github.com/fixploit03/WPSCRY/archive/refs/heads/main.zip)
+
 <p align="right">
   [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
