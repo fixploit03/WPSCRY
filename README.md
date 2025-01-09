@@ -87,6 +87,38 @@ cp wpscry.sh /usr/local/bin/wpscry
 wpscry
 ```
 
+![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_025711.png)
+
+<p align="center">lalu tekan Enter.</p>
+
+![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_025850.png)
+
+<p align="center">Masukkan nama interface Wi-Fi, lalu tekan Enter.</p>
+
+![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_025924.png)
+
+<p align="center">Tekan CTRL+C Jika Wi-Fi target sudah ditemukan.</p>
+
+![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030017.png)
+
+<p align="center">Masukkan BSSID dari Wi-Fi target, lalu tekan Enter.</p>
+
+![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030049.png)
+
+Masukkan Channel dari Wi-Fi target, lalu tekan Enter.
+
+![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030129.png)
+
+<p align="center">Tekan N jika tidak ingin menggunakan Pixie Dust Attack, atau tekan tombol Y lalu Enter jika ingin menggunakannya.</p>
+
+![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030205.png)
+
+<p align="center">Tekan Enter.</p>
+
+![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030238.png)
+
+<p align="center">Berhasil.</p>
+
 <p align="right">
   [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
