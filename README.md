@@ -37,14 +37,6 @@ Penggunaan script ini sepenuhnya merupakan tanggung jawab pengguna. WPSCRY diran
   [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
 
-## Demostrasi
-
-> [https://youtu.be/URGfY3A8iHs?si=81bz2o6H7bSoBXf0](https://youtu.be/URGfY3A8iHs?si=81bz2o6H7bSoBXf0)
-
-<p align="right">
-  [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
-</p>
-
 ## Persyaratan
 
 **Hardware**:  
@@ -129,9 +121,9 @@ wpscry
   [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
 </p>
 
-## Lisensi
+## Demostrasi
 
-Script ini dilisensikan di bawah [lisensi MIT](https://github.com/fixploit03/WPSCRY/blob/main/LICENSE). Anda bebas menggunakan, memodifikasi, dan mendistribusikan script ini, dengan tetap menghormati hak cipta pembuat.
+> [https://youtu.be/URGfY3A8iHs?si=81bz2o6H7bSoBXf0](https://youtu.be/URGfY3A8iHs?si=81bz2o6H7bSoBXf0)
 
 <p align="right">
   [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
@@ -140,6 +132,15 @@ Script ini dilisensikan di bawah [lisensi MIT](https://github.com/fixploit03/WPS
 ## Troubleshooting
 
 > [https://github.com/fixploit03/WPSCRY/blob/main/Troubleshooting.txt](https://github.com/fixploit03/WPSCRY/blob/main/Troubleshooting.txt)
+
+<p align="right">
+  [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
+</p>
+
+
+## Lisensi
+
+Script ini dilisensikan di bawah [lisensi MIT](https://github.com/fixploit03/WPSCRY/blob/main/LICENSE). Anda bebas menggunakan, memodifikasi, dan mendistribusikan script ini, dengan tetap menghormati hak cipta pembuat.
 
 <p align="right">
   [<a href="https://github.com/fixploit03/WPSCRY#wpscry">Back To Top</a>]
