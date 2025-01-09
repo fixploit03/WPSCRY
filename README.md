@@ -8,7 +8,7 @@
 
 Crack Wi-Fi yang menggunakan fitur [WPS](https://en.m.wikipedia.org/wiki/Wi-Fi_Protected_Setup) (Wi-Fi Protected Setup) secara otomatis.
 
-> Script ini menggunakan reaver untuk melakukan serangan Brute Force terhadap PIN WPS. Terdapat opsi tambahan untuk menggunakan Pixie Dust Attack jika pengguna mengaktifkannya.
+> Script ini menggunakan reaver untuk melakukan serangan [Brute Force](https://www.exabytes.co.id/blog/brute-force-attack/) terhadap PIN WPS. Terdapat opsi tambahan untuk menggunakan [Pixie Dust](https://www.janbasktraining.com/community/cyber-security/what-is-a-pixie-dust-attack1) Attack jika pengguna mengaktifkannya.
 
 ## Apa itu WPS dan mengapa rawan?
 
