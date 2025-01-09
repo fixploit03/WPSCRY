@@ -87,9 +87,11 @@ cp wpscry.sh /usr/local/bin/wpscry
 wpscry
 ```
 
+> Berikut ini adalah langkah-langkah untuk menjalankan script WPSCRY:
+
 ![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_025711.png)
 
-<p align="center">lalu tekan Enter.</p>
+<p align="center">Tekan tombol Y, lalu tekan Enter.</p>
 
 ![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_025850.png)
 
@@ -97,7 +99,7 @@ wpscry
 
 ![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_025924.png)
 
-<p align="center">Tekan CTRL+C Jika Wi-Fi target sudah ditemukan.</p>
+<p align="center">Tekan tombol CTRL+C Jika Wi-Fi target sudah ditemukan.</p>
 
 ![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030017.png)
 
@@ -107,9 +109,13 @@ wpscry
 
 <p align="center">Masukkan Channel dari Wi-Fi target, lalu tekan Enter.</p>
 
+![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_032240.png)
+
+<p align="center">Tekan tombol 2 , atau tekan tombol 3 untuk hasil yang lebih detail, lalu tekan Enter."</p>
+
 ![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030129.png)
 
-<p align="center">Tekan N jika tidak ingin menggunakan Pixie Dust Attack, atau tekan tombol Y lalu Enter jika ingin menggunakannya.</p>
+<p align="center">Tekan tombol N jika tidak ingin menggunakan Pixie Dust Attack, atau tekan tombol Y lalu Enter jika ingin menggunakannya.</p>
 
 ![](https://github.com/fixploit03/WPSCRY/blob/main/20250110_030205.png)
 
